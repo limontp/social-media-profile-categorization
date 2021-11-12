@@ -17,10 +17,10 @@ There are total 7114 labelled data in the dataset. The csv file **final.csv** co
 - Political -> 4
 - As usual -> 5
 The number of data points in each category is as follow:
-[image of freqs]
+![data-freq](https://user-images.githubusercontent.com/6221138/141504121-c8a43d5a-e500-4240-914a-72ea097529e6.jpg)
 
 # Result
 There is a total of 6 ML and Deep learning algorithms trained and tested. The accuracies of each algorithm are as follow:
-[image of result]
+![result](https://user-images.githubusercontent.com/6221138/141504112-97fa820b-f554-4c23-ae91-40e6723a428a.jpg)
 
 For more details and implementation, please check the **Thesis-final.ipynb** notebook.
